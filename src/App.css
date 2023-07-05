@@ -1,0 +1,27 @@
+/* NavBar */
+nav .nav-link {
+    color: white;
+}
+
+nav .nav-link:hover {
+    color: white;
+    font-weight: 500;
+}
+
+nav .active {
+    font-weight: 500;
+}
+
+
+/* Footer */
+footer .footer-link:hover {
+    font-weight: 500;
+}
+
+.bg-blue {
+    background-color: rgb(5, 5, 85);
+}
+
+.bg-green{
+    background-color: rgb(72, 232, 72);
+}
